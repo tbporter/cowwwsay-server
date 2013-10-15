@@ -1,2 +1,2 @@
-cowwwsay-server
+foxxxsay-server
 ===============
